@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansupriya Chowdhary</h1>
+<img_scr = "https://www.istockphoto.com/vector/woman-looking-at-laptop-with-magnifier-gm1592587675-529558995?searchscope=image%2Cfilm" , alt= "">
 <h3 align="center">Passionate about Data-Driven Decision Making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansu0612&label=Profile%20views&color=0e75b6&style=flat" alt="ansu0612" /> </p>
