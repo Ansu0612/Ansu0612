@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ansupriya Chowdhary</h1>
+<h1 align="center">Hi 👋, I'm Ansupriya Chowdhary</h1>  
 
-<img_scr = "https://www.istockphoto.com/vector/woman-looking-at-laptop-with-magnifier-gm1592587675-529558995?searchscope=image%2Cfilm](https://www.google.com/imgres?q=animated%20image%20for%20profile%20related%20to%20data%20analyst&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fdata-analyst-isolated-cartoon-character_934475-17570.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fdata-analyst-isolated-cartoon-character_159937518.htm&docid=aWCfUW3p-nxgpM&tbnid=vBkUAaxkH-QamM&vet=12ahUKEwi18q3s67KIAxWBUGcHHanIL18QM3oECB0QAA..i&w=626&h=626&hcb=2&ved=2ahUKEwi18q3s67KIAxWBUGcHHanIL18QM3oECB0QAA" , alt= "">
-  
 <h3 align="center">Passionate about Data-Driven Decision Making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansu0612&label=Profile%20views&color=0e75b6&style=flat" alt="ansu0612" /> </p>
