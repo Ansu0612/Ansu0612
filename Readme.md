@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansu0612&label=Profile%20views&color=0e75b6&style=flat" alt="ansu0612" /> </p>
 
-- 🔭 I’m currently working on **Cricket Data Analyst Project using Python, Web scrapping & Power BI**
+- 🔭 I’m currently working on **SEO Report,  Meta Data Report using Looker Studio**
 
 - 🌱 I’m currently learning **Generative AI, Web Scrapping**
 
