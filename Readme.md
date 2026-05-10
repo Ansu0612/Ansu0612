@@ -1,27 +1,117 @@
-<h1 align="center">Hi 👋, I'm Ansupriya Chowdhary</h1>  
+<h1 align="center">Hi 👋, I'm Ansupriya Chowdhary</h1>
 
-<h3 align="center">Passionate about Data-Driven Decision Making.</h3>
+<h3 align="center">
+Data Analyst | Product Analyst | Marketing & Hospitality Analytics
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansu0612&label=Profile%20views&color=0e75b6&style=flat" alt="ansu0612" /> </p>
-
-- 🔭 I’m currently working on **SEO Report,  Meta Data Report using Looker Studio**
-
-- 🌱 I’m currently learning **Generative AI, Web Scrapping**
-
-- 💬 Ask me about **MySQL, Power BI, MS Excel, Python, Machine Learning **
-
-- 📫 How to reach me **ansu11es@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/ansupriya-chowdhary-5ab1211b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ansupriya-chowdhary-5ab1211b4" height="30" width="40" /></a>
+<p align="center">
+I transform raw data into actionable business insights through dashboards, automation, and analytics.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ansu0612&label=Profile%20views&color=0e75b6&style=flat" alt="Ansu0612" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansu0612&show_icons=true&locale=en&layout=compact" alt="ansu0612" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansu0612&show_icons=true&locale=en" alt="ansu0612" /></p>
+## 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansu0612&" alt="ansu0612" /></p>
+- 📊 Data Analyst with experience in business intelligence, reporting, automation, and research analytics
+- 📈 Skilled in analyzing customer behavior, business performance, campaign metrics, and operational KPIs
+- 🏨 Interested in Hospitality Analytics, Marketing Analytics, and Product Analytics
+- ⚡ Building automated reporting workflows using Python, Selenium, SQL, and BI tools
+- 📉 Experienced in creating interactive dashboards and converting complex data into business decisions
+- 🌱 Currently learning Product Analytics, Generative AI, and Advanced Data Engineering concepts
+
+---
+
+## 🛠️ Tools & Technologies
+
+### Analytics & Visualization
+<p align="left">
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+  <img src="https://img.icons8.com/color/48/google-data-studio.png"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+</p>
+
+### Programming & Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</p>
+
+### Automation & Cloud
+<p align="left">
+  <img src="https://img.icons8.com/color/48/selenium-test-automation.png"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
+  <img src="https://img.icons8.com/color/48/git.png"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Customer Retention & Churn Analysis
+- Built interactive Power BI dashboards to identify churn patterns and customer retention opportunities
+- Analyzed customer behavior trends and KPI performance using SQL & Excel
+
+### 🔹 Marketing & SEO Performance Dashboard
+- Developed Looker Studio dashboards for campaign tracking, traffic analysis, and metadata performance
+- Automated reporting workflows to improve reporting efficiency
+
+### 🔹 Product & User Engagement Analytics
+- Analyzed user engagement metrics, funnel performance, and feature adoption trends
+- Created actionable insights to support product growth decisions
+
+### 🔹 Hospitality & Business Insights Dashboard
+- Designed business dashboards to track bookings, revenue trends, occupancy metrics, and customer insights
+- Focused on data storytelling for operational decision-making
+
+### 🔹 Automated Data Collection Workflow
+- Built automation scripts using Selenium & Python for extracting and cleaning structured web data
+- Reduced manual reporting effort and improved data accuracy
+
+---
+
+## 📈 What I Can Help With
+
+✔️ Dashboard Development  
+✔️ Marketing Analytics  
+✔️ Hospitality Reporting  
+✔️ Product Analytics  
+✔️ Customer Segmentation  
+✔️ KPI Tracking  
+✔️ Data Cleaning & Automation  
+✔️ SQL Analysis  
+✔️ Business Reporting  
+✔️ Data Visualization  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ansupriya-chowdhary-5ab1211b4/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
+
+📫 Email: **ansu11es@gmail.com**
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ansu0612&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansu0612&show_icons=true&locale=en" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansu0612&" />
+</p>
