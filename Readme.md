@@ -71,7 +71,6 @@ I build data-driven GTM workflows that turn company and prospect data into actio
 * Enriched and scored accounts using Clay and AI-assisted research
 * Prioritized **5 high-value accounts** and identified relevant buying signals
 
-[View Project](#)
 
 ---
 
@@ -84,8 +83,6 @@ I build data-driven GTM workflows that turn company and prospect data into actio
 * Incorporated ICP attributes, buying signals, account intelligence, and decision-maker research
 * Used n8n to structure repeatable GTM automation workflows
 
-[View Project](#)
-
 ---
 
 ### 🔹 GTM Use-Case Mapper — Cheerio.ai
@@ -97,8 +94,6 @@ I build data-driven GTM workflows that turn company and prospect data into actio
 * Built a **100-point account scoring framework**
 * Created company-specific product use-case mappings for SDR-ready research
 
-[View Project](#)
-
 ---
 
 ### 🔹 RevenuePilot AI
@@ -108,8 +103,6 @@ I build data-driven GTM workflows that turn company and prospect data into actio
 * Built a SaaS analytics simulation combining product, revenue, and customer data
 * Designed a MySQL data model and ETL workflow using Python
 * Created Power BI dashboards for revenue and customer analysis
-
-[View Project](#)
 
 ---
 
